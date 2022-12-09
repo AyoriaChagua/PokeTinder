@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1030078050311",
+    "project_id": "poketinder-aae79",
+    "storage_bucket": "poketinder-aae79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030078050311:android:23e87e9b7bdad186c37aa2",
+        "android_client_info": {
+          "package_name": "ayoria.chagua.poketinderlab08"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1030078050311-ugllgnd493eed8si7kdnm0ee7cdchksp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAngtPAYfwSpv2PXet5TZHaQgflOCWnzTE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1030078050311-ugllgnd493eed8si7kdnm0ee7cdchksp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
